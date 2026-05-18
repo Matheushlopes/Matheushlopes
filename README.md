@@ -4,7 +4,7 @@ Buscando uma Transição de Carreira, Querendo entrar na area de tecnologia.
 
 ## Sobre mim
 
-Atualmente Desempregado, em busca de novas experiencias, procuro no ramo que eu eu gosto Tecnologia
+Atualmente Desempregado, em busca de novas experiencias, Tentando fazer transição para Tecnologia.
 
 ## Filosofia
 
