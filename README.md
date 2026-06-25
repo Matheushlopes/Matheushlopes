@@ -1,10 +1,8 @@
 # Matheus Lopes
 
-Buscando uma Transição de Carreira, Querendo entrar na area de tecnologia.
-
 ## Sobre mim
 
-Atualmente Desempregado, em busca de novas experiencias, Tentando fazer transição para Tecnologia.
+29 Anos, apaixonado por programação, e tecnologia, Hoje é so um hobby.
 
 ## Filosofia
 
