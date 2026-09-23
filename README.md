@@ -23,3 +23,14 @@ Nem toda ideia vai virar um projeto grande.
 ---
 
 > Aprender, construir e continuar curioso.
+
+
+<img style="height:50px;widht:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-plain.svg" /> <img style="height:50px;widht:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /> <img style="height:50px;widht:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img style="height:50px;widht:50px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+          
+          
+          
+          
+
+
+          
+          
