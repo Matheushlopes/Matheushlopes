@@ -1,19 +1,25 @@
 # Matheus Lopes
 
-## Sobre mim
+Tenho 29 anos e tecnologia sempre foi uma coisa que gostei de mexer.
 
-29 Anos, apaixonado por programação, e tecnologia, Hoje é so um hobby.
+Hoje programação é um hobby. Gosto de ter uma ideia, abrir o editor e tentar fazer funcionar, principalmente quando é alguma coisa que posso usar no meu próprio dia a dia.
 
-## Filosofia
+Muitos dos projetos daqui começaram assim: alguma coisa me incomodou, pensei "dá pra facilitar isso" e resolvi tentar fazer.
 
-Aprender construindo.  
-Testar ideias.   
-Melhorar sempre.
+Não estou muito preocupado em usar a melhor tecnologia ou criar projetos enormes. Gosto mais de coisas simples, que funcionam e têm alguma utilidade.
 
-## Stacks & S.O
+Também uso esse espaço para testar ideias, aprender e guardar algumas das coisas que vou construindo.
 
-<img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+Se algo que fiz para resolver um problema meu também ajudar outra pessoa, já valeu a pena.
+
+## Por aqui tem um pouco de tudo
+
+Ferramentas que fiz para mim, algumas automações, experimentos e qualquer outra coisa que eu tenha vontade de construir.
+
+Nem toda ideia vai virar um projeto grande.
+
+Às vezes eu só quero ver se consigo fazer funcionar.
 
 ---
 
-Às vezes uma ideia pequena vira algo grande.
+> Aprender, construir e continuar curioso.
